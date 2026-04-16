@@ -1,2 +1,2 @@
-# Thermophysical_property
-This repo is made for the Thermophysical competition on Kaggle.
+# Physics informed Neural networks
+This repo is made for the practicing and using PINNs.
